@@ -22,5 +22,4 @@
     (defun redeem-tickets ()
         @doc "redeems bet tickets after settlement"
     )
-
 )
